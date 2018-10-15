@@ -1,0 +1,157 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 990
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Canada ; Times: 33
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 9
+	Date: 2018-02-28 ; Times: 4
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 14
+	Date: 2018-02-06 ; Times: 11
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-21 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;myodes gapperi&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "catalognumber:447" ; Times: 1
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "catalognumber:1249 &#34;tamias striatus&#34;" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "catalognumber:9 &#34;tamiasciurus hudsonicus&#34;" ; Times: 1
+	Query: "catalognumber:1925 &#34;sylvilagus floridanus&#34;" ; Times: 1
+	Query: "catalognumber:120 &#34;tamias striatus&#34;" ; Times: 1
+	Query: "Mustelidae hasmass:1" ; Times: 1
+	Query: "specificepithet:AEGAGRUS genus:CAPRA" ; Times: 9
+	Query: "catalognumber:22 &#34;tamiasciurus hudsonicus&#34;" ; Times: 1
+	Query: "catalognumber:134 &#34;sorex cinereus&#34;" ; Times: 1
+	Query: "&#34;procyon lotor&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "genus:Odocoileus stateprovince:&#34;California&#34; year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;procyon lotor&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "catalognumber:1849 &#34;tamiasciurus hudsonicus&#34;" ; Times: 2
+	Query: "&#34;clethrionomys gapperi&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "catalognumber:1850 &#34;tamiasciurus hudsonicus&#34;" ; Times: 1
+	Query: "catalognumber:434 &#34;blarina brevicauda&#34;" ; Times: 2
+	Query: "locality:bois blanc island" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinereus genus:sorex stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "distance(location,geopoint(46.2092667206665,-86.0902728338635))&lt;13795" ; Times: 7
+	Query: "catalognumber: 511 &#34;clethrionomys gapperi&#34;" ; Times: 1
+	Query: "catalognumber:1906 &#34;procyon lotor&#34;" ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "scientificname:&#34;eutamias minimus&#34;" ; Times: 1
+	Query: "catalognumber:1160 &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "distance(location,geopoint(46.3028756941665,-86.0973304315))&lt;13926" ; Times: 4
+	Query: "&#34;sylvilagus floridanus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; hasmass:1 &#34;blarina brevicauda&#34;" ; Times: 3
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "family:Bovidae institutioncode:NMU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1892 download events in this period)
+Total number of records downloaded: 2918
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 39
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-13 ; Times: 10
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-09 ; Times: 4
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-01 ; Times: 30
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Condylura cristata" ; Times: 1
+	Query: "&#34;myodes gapperi&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "&#34;tamias striatus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:gapperi stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "mammal minnesota" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "&#34;clethrionomys gapperi&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Myotis lucifugus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "&#34;procyon lotor&#34; vntype:specimen stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "&#34;procyon lotor&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 3
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "specificepithet:gapperi genus:myodes hasmass:1" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "&#34;peromyscus maniculatus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;microtus pennsylvanicus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "&#34;peromyscus leucopus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "&#34;sylvilagus floridanus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "&#34;tamiasciurus hudsonicus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "&#34;sorex cinereus&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 2
+	Query: "vntype:specimen specificepithet:cinereus genus:sorex stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "genus:Odocoileus stateprovince:&#34;California&#34; year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "&#34;zapus hudsonius&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;United States&#34;" ; Times: 1
+	Query: "&#34;blarina brevicauda&#34; vntype:specimen stateprovince:&#34;Michigan&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 2
+
+
+End of report.
