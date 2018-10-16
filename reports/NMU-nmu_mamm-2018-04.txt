@@ -1,0 +1,153 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 679
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 111
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 5
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 4
+	Date: 2018-04-04 ; Times: 6
+	Date: 2018-04-06 ; Times: 3
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-03 ; Times: 9
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-17 ; Times: 9
+	Date: 2018-04-23 ; Times: 24
+	Date: 2018-04-22 ; Times: 25
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-26 ; Times: 2
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "genus:Canis specificepithet:lupus mappable:1 hasmass:1" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;michigan&#34; year &gt;= 1910 year &lt;= 1940" ; Times: 1
+	Query: "family:Cervidae hastissue:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;michigan&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Condylura specificepithet:cristata mappable:1" ; Times: 1
+	Query: "genus:Glaucomys specificepithet:volans mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Martes specificepithet:americana mappable:1" ; Times: 3
+	Query: "genus:Eutamias" ; Times: 3
+	Query: "genus:tamiasciurus stateprovince:&#34;michigan&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "sorex hoyi" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;michigan&#34; (skin) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "genus:lepus stateprovince:&#34;michigan&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 3
+	Query: "genus:myodes stateprovince:&#34;michigan&#34; (skin) year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "beagle" ; Times: 1
+	Query: "specificepithet:lupus genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 2
+	Query: "genus:Condylura specificepithet:cristata mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "genus:Glaucomys specificepithet:sabrinus mappable:1 hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Martes" ; Times: 1
+	Query: "genus:Sorex specificepithet:hoyi mappable:1" ; Times: 2
+	Query: "genus:Odocoileus sex:Male hastissue:1" ; Times: 1
+	Query: "genus:clethrionomys stateprovince:&#34;michigan&#34; (skin) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "mustela vison" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:montanus mappable:1" ; Times: 1
+	Query: "genus:Lepus specificepithet:americanus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:hoyi mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Synaptomys specificepithet:cooperi mappable:1" ; Times: 2
+	Query: "genus:odocoileus stateprovince:&#34;michigan&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1960 year &lt;= 1995" ; Times: 1
+	Query: "genus:Martes specificepithet:americana mappable:1 hasmass:1" ; Times: 24
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Glaucomys specificepithet:sabrinus mappable:1" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "genus:Blarina specificepithet:brevicauda mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Lynx specificepithet:rufus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:arcticus mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Sciurus specificepithet:niger mappable:1 hasmass:1" ; Times: 2
+	Query: "mustela erminea" ; Times: 4
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "genus:Sciurus specificepithet:carolinensis mappable:1 hasmass:1" ; Times: 3
+	Query: "genus:Canis specificepithet:latrans mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:floridanus mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:americana genus:Martes hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi mappable:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1890 year &lt;= 1900" ; Times: 1
+	Query: "genus:Sorex specificepithet:arcticus mappable:1" ; Times: 2
+	Query: "genus:Zapus specificepithet:hudsonius mappable:1 hasmass:1" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:montanus mappable:1 hasmass:1" ; Times: 1
+	Query: "genus:Neovison specificepithet:vison mappable:1 hasmass:1" ; Times: 1
+	Query: "specificepithet:gapperi stateprovince:&#34;michigan&#34; (skin) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Mustela year&gt;=1990 year&lt;=1992 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 2
+	Query: "genus:Tamias specificepithet:striatus mappable:1 hasmass:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1359 download events in this period)
+Total number of records downloaded: 1350
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Poland ; Times: 4
+	Country: Finland ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-13 ; Times: 5
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-15 ; Times: 7
+	Date: 2018-04-09 ; Times: 7
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:mus continent:North America" ; Times: 1
+	Query: "distance(location,geopoint(46.23388,-89.53725))&lt;50000" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;michigan&#34; (skin) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Sciuridae hasmass:1" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "specificepithet:lupus genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "distance(location,geopoint(47.15909,-99.11388))&lt;50000" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "Muridae hasmass:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 9
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "distance(location,geopoint(46.21111,-89.47825))&lt;50000" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1960 year &lt;= 1995" ; Times: 1
+	Query: "distance(location,geopoint(47.12823,-99.24136))&lt;50000" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "distance(location,geopoint(45.998269,-89.704767))&lt;50000" ; Times: 1
+	Query: "Geomyidae hasmass:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus continent:North America" ; Times: 2
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(47.16165,-99.10656))&lt;50000" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "Dipodidae hasmass:1" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+
+
+End of report.
