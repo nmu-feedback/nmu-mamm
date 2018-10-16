@@ -1,0 +1,77 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 430
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Canada ; Times: 4
+	Country: Italy ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-19 ; Times: 2
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-21 ; Times: 5
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;marquette&#34; stateprovince:&#34;michigan&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:frenata genus:Mustela lengthtype:total length" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Baraga&#34; stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "distance(location,geopoint(46.2092667206665,-86.0902728338635))&lt;13795" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "distance(location,geopoint(46.3028756941665,-86.0973304315))&lt;13926" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis (dog OR domestic)" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Marquette&#34; stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Marquette&#34; stateprovince:&#34;Michigan&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "genus:clethrionomys stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "vntype:specimen specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1178 download events in this period)
+Total number of records downloaded: 175
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "vntype:specimen (Microtus ) year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
