@@ -1,0 +1,116 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 406
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 44
+	Country: Denmark ; Times: 14
+	Country: Poland ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-20 ; Times: 8
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-07 ; Times: 14
+	Date: 2018-03-17 ; Times: 2
+	Date: 2018-03-02 ; Times: 5
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-06 ; Times: 5
+	Date: 2018-03-29 ; Times: 5
+	Date: 2018-03-26 ; Times: 12
+	Date: 2018-03-27 ; Times: 6
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lupus genus:canis institutioncode:NMU" ; Times: 1
+	Query: "genus:Glaucomys specificepithet:volans" ; Times: 5
+	Query: "genus:Sylvilagus specificepithet:floridanus" ; Times: 1
+	Query: "genus:Canis specificepithet:latrans" ; Times: 1
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 5
+	Query: "genus:Lynx specificepithet:rufus" ; Times: 1
+	Query: "FISH stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "sorex hoyi hasmass:1" ; Times: 1
+	Query: "stateprovince:&#34;michigan&#34; (fish) year &lt;= 2018" ; Times: 2
+	Query: "Antilope cervicapra" ; Times: 1
+	Query: "Sorex arcticus hasmass:1" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 2
+	Query: "genus:Neovison specificepithet:vison" ; Times: 3
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1970 year &lt;= 1995" ; Times: 1
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 6
+	Query: "family:Felidae haslength:1" ; Times: 1
+	Query: "genus:Zapus specificepithet:hudsonius" ; Times: 2
+	Query: "genus:Felis specificepithet:catus" ; Times: 2
+	Query: "family:Felidae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "iptrecordid:&#34;http://arctos.database.museum/guid/NMU:Mamm:1257?seid=3144977&#34;" ; Times: 4
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "genus:Tamias specificepithet:striatus" ; Times: 1
+	Query: "stateprovince:&#34;michigan&#34; (fish)" ; Times: 2
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "felis domesticus" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi" ; Times: 5
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "wood rat" ; Times: 2
+	Query: "Sorex hoyi hasmass:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1284 download events in this period)
+Total number of records downloaded: 2209
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Poland ; Times: 9
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 2
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-20 ; Times: 2
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-29 ; Times: 4
+	Date: 2018-03-26 ; Times: 3
+	Date: 2018-03-27 ; Times: 4
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Felidae" ; Times: 1
+	Query: "class:Mammalia Didelphis marsupialis" ; Times: 1
+	Query: "cricetidae hasmass:1" ; Times: 1
+	Query: "family:Soricidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1970 year &lt;= 1995" ; Times: 1
+	Query: "talpidae hasmass:1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "soricidae hasmass:1" ; Times: 1
+	Query: "Sorex arcticus hasmass:1" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 1
+	Query: "rodentia hasmass:1" ; Times: 3
+	Query: "FISH stateprovince:&#34;michigan&#34;" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "order:Cingulata preparations:skull" ; Times: 1
+	Query: "specificepithet:lupus genus:canis institutioncode:NMU" ; Times: 1
+	Query: "family:Felidae haslength:1" ; Times: 1
+	Query: "family:Felidae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "sorex cinereus hasmass:1" ; Times: 1
+	Query: "sorex hoyi hasmass:1" ; Times: 1
+
+
+End of report.
