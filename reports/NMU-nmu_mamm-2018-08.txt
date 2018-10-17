@@ -1,0 +1,58 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 42
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-22 ; Times: 4
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Carnivora county:&#34;Keweenaw&#34;" ; Times: 1
+	Query: "recordedby:Whitney year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 4
+	Query: "vntype:specimen specificepithet:hoyi genus:Sorex lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "tumor" ; Times: 1
+	Query: "tumor hastissue:1" ; Times: 1
+	Query: "family:Felidae continent:America year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1416 download events in this period)
+Total number of records downloaded: 49
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "felis catus" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "vntype:specimen specificepithet:hoyi genus:Sorex lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "tumor hastissue:1" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+
+
+End of report.
