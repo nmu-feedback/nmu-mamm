@@ -1,0 +1,147 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 417
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 65
+	Country: Austria ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 11
+	Date: 2018-11-04 ; Times: 4
+	Date: 2018-11-23 ; Times: 5
+	Date: 2018-11-09 ; Times: 1
+	Date: 2018-11-07 ; Times: 6
+	Date: 2018-11-06 ; Times: 11
+	Date: 2018-11-05 ; Times: 4
+	Date: 2018-11-13 ; Times: 3
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-02 ; Times: 3
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-26 ; Times: 8
+	Date: 2018-11-30 ; Times: 8
+	Date: 2018-11-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:brevicauda genus:blarina" ; Times: 3
+	Query: "genus:odocoileus hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:a909e61b-b5f6-4592-a699-428619b3dd55" ; Times: 1
+	Query: "specificepithet:montanus genus:Reithrodontomys year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 4
+	Query: "Sylvilagus floridanus" ; Times: 28
+	Query: "family:felidae continent:north america haslength:1" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 4
+	Query: "catalognumber:533 institutioncode:NMU" ; Times: 2
+	Query: "specificepithet:montanus genus:Reithrodontomys" ; Times: 9
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:hoyi genus:Sorex lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "family:vespertilionidae continent:North America institutioncode:NMU" ; Times: 1
+	Query: "Mustela vision" ; Times: 4
+	Query: "wolves" ; Times: 1
+	Query: "mustela vision" ; Times: 1
+	Query: "Sorex hoyi vntype:specimen lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 3
+	Query: "catalognumber:1017" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 79 (out of 1719 download events in this period)
+Total number of records downloaded: 1808
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 40
+	Country: Mexico ; Times: 35
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 4
+	Date: 2018-11-07 ; Times: 3
+	Date: 2018-11-06 ; Times: 9
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-13 ; Times: 3
+	Date: 2018-11-03 ; Times: 1
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-15 ; Times: 15
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-26 ; Times: 10
+	Date: 2018-11-14 ; Times: 6
+	Date: 2018-11-23 ; Times: 2
+	Date: 2018-11-11 ; Times: 9
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-12 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sylvilagus floridanus" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "genus:Didelphis virginiana" ; Times: 1
+	Query: "genus:Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Canis latrans" ; Times: 1
+	Query: "genus:Sigmodon hispidus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "genus:Didelphis marsupialis" ; Times: 2
+	Query: "family:felidae continent:north america haslength:1" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Sciurinae" ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "Castor Canadensis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "genus:Urocyon cinereoargenteus" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:hoyi genus:Sorex lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "Ursus americanus americanus" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "Mustela vision" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Sorex hoyi vntype:specimen lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "baculum vntype:specimen order:Carnivora" ; Times: 1
+	Query: "genus:Dasypus novemcinctus" ; Times: 2
+	Query: "genus:Mustela frenata" ; Times: 1
+	Query: "lontra canadensis" ; Times: 3
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "genus:Peromyscus leucopus" ; Times: 1
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "baculum vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "genus:mustela family:mustelidae order:carnivora class:mammalia (neovision OR vision OR mink)" ; Times: 1
+	Query: "reithrodontomys montanus" ; Times: 1
+	Query: "procyon" ; Times: 3
+
+
+End of report.
