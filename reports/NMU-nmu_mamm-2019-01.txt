@@ -1,0 +1,92 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 909
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 100
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 83
+	Date: 2019-01-28 ; Times: 7
+	Date: 2019-01-22 ; Times: 4
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-31 ; Times: 4
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-23 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:vison genus:Neovison continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 12
+	Query: "specificepithet:musculus genus:Mus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:Striatus genus:Tamias continent:North america hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 9
+	Query: "specificepithet:striatus genus:tamias institutioncode:NMU" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus stateprovince:&#34;Nebraska&#34; continent:North America lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 6
+	Query: "specificepithet:lupus genus:canis year &gt;= 2005 year &lt;= 2018 institutioncode:NMU" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 5
+	Query: "genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34; year &gt;= 2005 year &lt;= 2019" ; Times: 8
+	Query: "specificepithet:rufus genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 10
+	Query: "specificepithet:carolinensis genus:Sciurus continent:north america hassex:1 hasmass:1 haslength:1" ; Times: 9
+	Query: "specificepithet:carolinensis genus:Sciurus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Nebraska&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:NMU" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison stateprovince:&#34;Michigan&#34; continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:vison genus:neovison continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "wolves" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 15
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 15
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 962 download events in this period)
+Total number of records downloaded: 215
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 10
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 2
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "specificepithet:Striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:floridanus genus:Sylvilagus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+
+End of report.
