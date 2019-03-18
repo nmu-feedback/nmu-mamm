@@ -1,0 +1,51 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 176
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-14 ; Times: 5
+	Date: 2019-02-05 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Blarina" ; Times: 3
+	Query: "genus:Peromyscus stateprovince:&#34;Michigan&#34; year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:NMU" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 3
+	Query: "(Sciurus carolinensis) hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1227 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela institutioncode:NMU" ; Times: 1
+
+
+End of report.
