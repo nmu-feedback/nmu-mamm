@@ -1,0 +1,87 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 96
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 13
+	Date: 2019-06-10 ; Times: 6
+	Date: 2019-06-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Condylura specificepithet:cristata" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi" ; Times: 2
+	Query: "genus:Martes specificepithet:americana" ; Times: 1
+	Query: "genus:Tamias specificepithet:striatus" ; Times: 1
+	Query: "genus:Myocastor specificepithet:coypus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;otsego&#34; stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "genus:Neovison specificepithet:vison" ; Times: 1
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 2
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "genus:Glaucomys specificepithet:sabrinus" ; Times: 1
+	Query: "genus:Lynx specificepithet:rufus" ; Times: 1
+	Query: "genus:Zapus specificepithet:hudsonius" ; Times: 1
+	Query: "genus:Mustela specificepithet:erminea" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Felis specificepithet:catus" ; Times: 1
+	Query: "genus:Martes specificepithet:martes" ; Times: 1
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 1
+	Query: "genus:Martes specificepithet:pennanti" ; Times: 1
+	Query: "wolves" ; Times: 1
+	Query: "genus:Chinchilla specificepithet:lanigera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1182 download events in this period)
+Total number of records downloaded: 471
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-24 ; Times: 2
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-30 ; Times: 1
+	Date: 2019-06-06 ; Times: 6
+	Date: 2019-06-07 ; Times: 7
+	Date: 2019-06-04 ; Times: 2
+	Date: 2019-06-05 ; Times: 2
+	Date: 2019-06-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lutrinae" ; Times: 2
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes" ; Times: 2
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 3
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "specificepithet:gapperi genus:Clethrionomys" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "wolf" ; Times: 1
+	Query: "Castor canadensis canadensis" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "kangaroo rat" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "continent:North America (wolf canis lupus)" ; Times: 1
+
+
+End of report.
