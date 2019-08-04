@@ -1,0 +1,62 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 140
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Argentina ; Times: 7
+	Country: Nepal ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-08 ; Times: 6
+	Date: 2019-07-21 ; Times: 4
+	Date: 2019-07-22 ; Times: 2
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:a909e61b-b5f6-4592-a699-428619b3dd55" ; Times: 7
+	Query: "genus:zapus class:MAMMALIA locality:salmon" ; Times: 1
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 6
+	Query: "specificepithet:idahoensis genus:Thomomys hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 985 download events in this period)
+Total number of records downloaded: 548
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 1
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia hasmass:1" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+
+
+End of report.
