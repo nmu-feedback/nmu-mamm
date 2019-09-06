@@ -1,0 +1,76 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 156
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-08 ; Times: 4
+	Date: 2019-08-15 ; Times: 4
+	Date: 2019-08-13 ; Times: 5
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-07 ; Times: 7
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-27 ; Times: 2
+	Date: 2019-08-30 ; Times: 5
+	Date: 2019-08-20 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "Lynx canadensis" ; Times: 8
+	Query: "genus:Eutamias specificepithet:minimus" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 15
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "class:mammalia county:&#34;santa barbara&#34; stateprovince:&#34;california&#34; institutioncode:NMU" ; Times: 2
+	Query: "specificepithet:vison genus:mustela" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Lepus  specificepithet:americanus" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Lynx hasmass:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1034 download events in this period)
+Total number of records downloaded: 581
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 5
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-08 ; Times: 3
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "genus:Neotoma hassex:1 hasmass:1" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Sciuridae" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+
+
+End of report.
