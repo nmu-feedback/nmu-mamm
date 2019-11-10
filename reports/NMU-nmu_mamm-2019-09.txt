@@ -1,0 +1,84 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 128
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-24 ; Times: 31
+	Date: 2019-09-12 ; Times: 4
+	Date: 2019-09-03 ; Times: 5
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-06 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus hasmass:1 haslength:1" ; Times: 1
+	Query: "Microtus pennsylvanicus 2014" ; Times: 1
+	Query: "Microtus pennsylvanicus 2012" ; Times: 1
+	Query: "Microtus pennsylvanicus 1984" ; Times: 2
+	Query: "Microtus pennsylvanicus 1972" ; Times: 3
+	Query: "Microtus pennsylvanicus 1983" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 8
+	Query: "Peromyscus maniculatus 2007" ; Times: 1
+	Query: "Peromyscus maniculatus 2001" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1974" ; Times: 2
+	Query: "Microtus pennsylvanicus 1974" ; Times: 1
+	Query: "Peromyscus maniculatus 1977" ; Times: 1
+	Query: "Peromyscus maniculatus 1996" ; Times: 4
+	Query: "Peromyscus maniculatus 1979" ; Times: 2
+	Query: "Peromyscus maniculatus 1991" ; Times: 2
+	Query: "specificepithet:dorsatum genus:Erethizon hasmass:1 haslength:1" ; Times: 1
+	Query: "nivalis mustela" ; Times: 1
+	Query: "Microtus pennsylvanicus 1978" ; Times: 1
+	Query: "Peromyscus maniculatus 2012" ; Times: 2
+	Query: "Peromyscus maniculatus 1985" ; Times: 2
+	Query: "specificepithet:curtatus genus:Lemmiscus hastissue:1" ; Times: 2
+	Query: "eutamias minimus" ; Times: 1
+	Query: "Peromyscus maniculatus 1981" ; Times: 2
+	Query: "specificepithet:floridanus genus:Sylvilagus hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1987" ; Times: 2
+	Query: "specificepithet:vison genus:Neovison hasmass:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1073 download events in this period)
+Total number of records downloaded: 58
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "chihuahua" ; Times: 2
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
