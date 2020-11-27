@@ -1,0 +1,68 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 45
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-29 ; Times: 3
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-03 ; Times: 2
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:Mustela haslength:1" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison hastissue:1" ; Times: 2
+	Query: "MAMM (6657)" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 2
+	Query: "specificepithet:pennanti" ; Times: 1
+	Query: "specificepithet:volans genus:glaucomys country:&#34;united states&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison haslength:1" ; Times: 1
+	Query: "specificepithet:cuniculus genus:Oryctolagus haslength:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:sabrinus genus:Glaucomys hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 853 download events in this period)
+Total number of records downloaded: 63
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-09 ; Times: 2
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pennsylvanicus genus:Microtus stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "genus:Callospermophilus hasmass:1 haslength:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "specificepithet:americanus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+
+
+End of report.
