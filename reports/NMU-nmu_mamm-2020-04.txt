@@ -1,0 +1,97 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 167
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: United Kingdom ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 4
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-07 ; Times: 5
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 4
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-27 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ludovicianus genus:Cynomys haslength:1" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 2
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen haslength:1" ; Times: 2
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen hasmass:1 haslength:1" ; Times: 1
+	Query: "Felis catus" ; Times: 4
+	Query: "Mustela erminea" ; Times: 4
+	Query: "Alger County" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 3
+	Query: "Sorex palustris basisofrecord:PreservedSpecimen hasmass:1" ; Times: 1
+	Query: "Sorex palustris hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus country:&#34;United States&#34; continent:North America sex:male lengthtype:total length haslength:1" ; Times: 4
+	Query: "county:&#34;alger&#34; stateprovince:&#34;michigan&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:NMU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1171 download events in this period)
+Total number of records downloaded: 484
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Brazil ; Times: 1
+	Country: India ; Times: 1
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-22 ; Times: 4
+	Date: 2020-04-23 ; Times: 2
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 4
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-03 ; Times: 2
+	Date: 2020-04-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Dipodidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:princeps genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Parascalops" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "geomyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Odocoileus Hemionus" ; Times: 1
+	Query: "genus:Erethizon haslength:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "specificepithet:brevicauda genus:blarina hasmass:1" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:lateralis genus:callospermophilus haslength:1" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "vntype:specimen specificepithet:erminea genus:Mustela" ; Times: 1
+	Query: "vntype:specimen genus:Glaucomys" ; Times: 1
+	Query: "genus:Erethizon hasmass:1" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela haslength:1" ; Times: 1
+	Query: "heteromyidae hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Blarina hastissue:1" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus haslength:1" ; Times: 1
+	Query: "vntype:specimen genus:Lontra" ; Times: 1
+	Query: "sciurus" ; Times: 1
+
+
+End of report.
