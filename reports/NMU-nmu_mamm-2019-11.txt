@@ -1,0 +1,69 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 106
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Denmark ; Times: 5
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-08 ; Times: 3
+	Date: 2019-11-09 ; Times: 3
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-07 ; Times: 4
+	Date: 2019-11-16 ; Times: 3
+	Date: 2019-11-03 ; Times: 4
+	Date: 2019-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:lynx rufus hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Lynx canadensis 2016" ; Times: 4
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus county:&#34;washtenaw&#34;" ; Times: 1
+	Query: "genus:procyon lotor stateprovince:&#34;illinois&#34; hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:tamias striatus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Lynx canadensis 2019" ; Times: 8
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Teton&#34; stateprovince:&#34;Wyoming&#34; hastissue:1" ; Times: 1
+	Query: "genus:Tamias striatus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus hastissue:1" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1367 download events in this period)
+Total number of records downloaded: 192
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-20 ; Times: 3
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
