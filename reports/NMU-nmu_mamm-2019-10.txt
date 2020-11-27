@@ -1,0 +1,103 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 81
+Number of records retrieved in searches: 524
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 79
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-22 ; Times: 31
+	Date: 2019-10-19 ; Times: 2
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 13
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-04 ; Times: 27
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mus musculus 2019" ; Times: 2
+	Query: "CM peromyscus" ; Times: 1
+	Query: "Thomomys talpoides 1984" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Mus musculus 1983" ; Times: 2
+	Query: "Mus musculus 1980" ; Times: 2
+	Query: "Mus musculus 1987" ; Times: 2
+	Query: "Mus musculus 1984" ; Times: 4
+	Query: "specificepithet:vison genus:Neovison continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Canis lupus Linnaeus" ; Times: 1
+	Query: "Rattus norvegicus 1981" ; Times: 1
+	Query: "Lynx canadensis 2019" ; Times: 2
+	Query: "Rattus norvegicus 1985" ; Times: 1
+	Query: "Zapus princeps 2019" ; Times: 3
+	Query: "Zapus princeps 2018" ; Times: 1
+	Query: "genus:Procyon lotor continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "Lynx canadensis 2016" ; Times: 1
+	Query: "genus:Neovison continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Mus musculus 1999" ; Times: 2
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "Thomomys talpoides 2019" ; Times: 2
+	Query: "Thomomys talpoides 2018" ; Times: 1
+	Query: "Rattus norvegicus 1978" ; Times: 1
+	Query: "Rattus norvegicus 2001" ; Times: 1
+	Query: "Neotoma cinerea 1984" ; Times: 1
+	Query: "Neotoma cinerea 2019" ; Times: 2
+	Query: "Neotoma cinerea 2018" ; Times: 1
+	Query: "Mus musculus 2014" ; Times: 1
+	Query: "genus:sciurus carolinensis family:sciuridae continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "genus:Lynx rufus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 4
+	Query: "Microtus longicaudus 1984" ; Times: 2
+	Query: "specificepithet:striatus genus:Tamias continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 11
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "specificepithet:montanus genus:Reithrodontomys year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:monax genus:Marmota year &gt;= 1850 year &lt;= 1900" ; Times: 2
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Zapus princeps 1984" ; Times: 1
+	Query: "Rattus norvegicus 2019" ; Times: 1
+	Query: "Zapus princeps 1981" ; Times: 1
+	Query: "Microtus montanus 1984" ; Times: 1
+	Query: "Microtus montanus 2018" ; Times: 1
+	Query: "Microtus montanus 2019" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1308 download events in this period)
+Total number of records downloaded: 1117
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "erethizon dorsatum vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "family:Geomyidae hasmass:1" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Erethizon preparations:skeleton" ; Times: 1
+	Query: "family:soricidae" ; Times: 1
+	Query: "Canis lupus Linnaeus" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
