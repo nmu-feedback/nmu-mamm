@@ -1,0 +1,159 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 394
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-18 ; Times: 3
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-13 ; Times: 3
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-30 ; Times: 2
+	Date: 2020-10-17 ; Times: 5
+	Date: 2020-10-14 ; Times: 2
+	Date: 2020-10-03 ; Times: 2
+	Date: 2020-10-09 ; Times: 6
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-21 ; Times: 4
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-25 ; Times: 3
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-16 ; Times: 5
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-02 ; Times: 3
+	Date: 2020-10-05 ; Times: 6
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-06 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys continent:North America year &lt;= 1960 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:neotoma county:&#34;imperial&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "scientificname:Gulo gulo" ; Times: 1
+	Query: "Erethizontidae hasmass:1 haslength:1" ; Times: 1
+	Query: "Sciurus carolinensis country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias class:mammalia institutioncode:NMU" ; Times: 1
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 4
+	Query: "specificepithet:rufus genus:lynx hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hasmass:1 haslength:1" ; Times: 2
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "order:Rodentia basisofrecord:PreservedSpecimen distance(location,geopoint(40.58097897758416,-105.64761799728875))&lt;15826" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis hassex:1 hasmass:1" ; Times: 6
+	Query: "catalognumber:1982" ; Times: 1
+	Query: "order:Rodentia basisofrecord:PreservedSpecimen distance(location,geopoint(40.58097897758416,-105.64761799728875))&lt;25231" ; Times: 1
+	Query: "scientificname:Lynx lynx" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon family:Erethizontidae order:Rodentia class:Mammalia hasmass:1 haslength:1" ; Times: 1
+	Query: "Geomys breviceps locality:College Station county:&#34;Brazos&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Geomys breviceps locality:College Station stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Erethizon dorsatum sex:female hasmass:1" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:NMU" ; Times: 1
+	Query: "Erethizon dorsatum hasmass:1" ; Times: 1
+	Query: "Canis latrans country:&#34;United States&#34; hasmass:1" ; Times: 7
+	Query: "specificepithet:Carolinensis genus:Sciurus haslength:1" ; Times: 1
+	Query: "Mammalia vntype:specimen catalognumber:1982" ; Times: 1
+	Query: "Odocoileus virginianus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys continent:North America year &gt;= 1961 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "order:Rodentia basisofrecord:PreservedSpecimen distance(location,geopoint(40.58097897758416,-105.64761799728875))&lt;16635" ; Times: 1
+	Query: "genus:taxidea year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus haslength:1" ; Times: 2
+	Query: "Felis catus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America year &gt;= 1961 hasmass:1 haslength:1" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:NMU" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 2
+	Query: "hassex:1 hasmass:1 Sylvilagus floridanus" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America year &gt;= 1961 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Erethizon dorsatum hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:volans genus:Glaucomys continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1521 download events in this period)
+Total number of records downloaded: 3012
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 46
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-18 ; Times: 2
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-28 ; Times: 4
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-31 ; Times: 8
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-14 ; Times: 12
+	Date: 2020-10-15 ; Times: 1
+	Date: 2020-10-16 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "specificepithet:Carolinensis genus:Sciurus haslength:1" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "specificepithet:Carolinensis genus:Sciurus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 2
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "specificepithet:moschatus genus:ovibos" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis hassex:1 hasmass:1" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus haslength:1" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America year &lt;= 1960 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America year &gt;= 1961 hasmass:1 haslength:1" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "vntype:specimen specificepithet:Volans genus:Glaucomys" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "Erethizontidae hasmass:1 haslength:1" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus continent:North America year &gt;= 1961 hasmass:1 haslength:1" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:NMU" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+
+
+End of report.
