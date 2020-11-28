@@ -1,0 +1,72 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 48
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-21 ; Times: 3
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Mustela vison" ; Times: 1
+	Query: "Tamiasciurus Wyoming" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 2
+	Query: "genus:Mustela stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Idaho&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 756 download events in this period)
+Total number of records downloaded: 542
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-26 ; Times: 3
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "baculum" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex" ; Times: 2
+	Query: "genus:Ochotona stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "family:Geomyidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Zapus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:Mustela stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "genus:Zapus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 3
+
+
+End of report.
