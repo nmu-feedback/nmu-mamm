@@ -1,0 +1,206 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 207
+Number of records retrieved in searches: 1825
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 204
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-23 ; Times: 2
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-26 ; Times: 2
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-09 ; Times: 5
+	Date: 2020-11-07 ; Times: 2
+	Date: 2020-11-02 ; Times: 2
+	Date: 2020-11-10 ; Times: 185
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-29 ; Times: 1
+	Date: 2020-11-14 ; Times: 3
+	Date: 2020-11-12 ; Times: 1
+	Date: 2020-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Canis lupus" ; Times: 12
+	Query: "scientificname:Glaucomys volans" ; Times: 6
+	Query: "scientificname:Didelphis virginiana" ; Times: 4
+	Query: "specificepithet:latrans genus:canis haslength:1" ; Times: 1
+	Query: "scientificname:Mephitis mephitis" ; Times: 4
+	Query: "scientificname:Lepus americanus" ; Times: 8
+	Query: "Canis Ohio" ; Times: 1
+	Query: "scientificname:Tamias striatus" ; Times: 6
+	Query: "scientificname:Felis catus" ; Times: 2
+	Query: "scientificname:Gulo gulo" ; Times: 2
+	Query: "scientificname:Synaptomys cooperi" ; Times: 2
+	Query: "scientificname:Sorex palustris" ; Times: 2
+	Query: "scientificname:Blarina brevicauda" ; Times: 6
+	Query: "felidae hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Sylvilagus floridanus" ; Times: 2
+	Query: "Sorex palustris" ; Times: 2
+	Query: "scientificname:Neovison vison" ; Times: 4
+	Query: "scientificname:Scalopus aquaticus" ; Times: 8
+	Query: "scientificname:Mustela erminea" ; Times: 8
+	Query: "scientificname:Martes pennanti" ; Times: 6
+	Query: "scientificname:Sorex cinereus" ; Times: 1
+	Query: "scientificname:Lynx rufus" ; Times: 4
+	Query: "vntype:specimen family:Felidae hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Mus musculus" ; Times: 4
+	Query: "scientificname:Procyon lotor" ; Times: 4
+	Query: "scientificname:Parascalops breweri" ; Times: 2
+	Query: "vntype:specimen family:Felidae hasmass:1 -lynx OR -puma" ; Times: 1
+	Query: "scientificname:Lynx canadensis" ; Times: 4
+	Query: "scientificname:Cryptotis parva" ; Times: 2
+	Query: "scientificname:Cynomys ludovicianus" ; Times: 1
+	Query: "scientificname:Myodes gapperi" ; Times: 4
+	Query: "scientificname:Eptesicus fuscus" ; Times: 2
+	Query: "specificepithet:hoyi genus:Sorex hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Tamiasciurus hudsonicus" ; Times: 3
+	Query: "scientificname:Urocyon cinereoargenteus" ; Times: 2
+	Query: "scientificname:Condylura cristata" ; Times: 4
+	Query: "vntype:specimen family:Felidae hasmass:1 haslength:1 -uwbm -dmns -cumv -uam -msb" ; Times: 1
+	Query: "vntype:specimen class:Mammalia massing &gt;= 8000 hasmass:1" ; Times: 1
+	Query: "family:Felidae hasmass:1" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "scientificname:Ondatra zibethicus" ; Times: 2
+	Query: "scientificname:Lontra canadensis" ; Times: 4
+	Query: "scientificname:Marmota monax" ; Times: 4
+	Query: "specificepithet:floridanus genus:Sylvilagus hasmass:1" ; Times: 1
+	Query: "scientificname:Myotis lucifugus" ; Times: 2
+	Query: "scientificname:Sciurus carolinensis" ; Times: 5
+	Query: "scientificname:Mustela frenata" ; Times: 6
+	Query: "scientificname:Castor Canadensis" ; Times: 4
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "scientificname:Lasiurus borealis" ; Times: 2
+	Query: "scientificname:Ursus americanus" ; Times: 2
+	Query: "vntype:specimen family:Felidae hasmass:1 haslength:1 -uwbm -dmns" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis family:Canidae (zoo OR captive) AND (NOT baileyi NOT familiaris NOT dingo) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Microtus pennsylvanicus" ; Times: 2
+	Query: "vntype:specimen family:Felidae hasmass:1 haslength:1 -uwbm" ; Times: 1
+	Query: "scientificname:Martes americana" ; Times: 4
+	Query: "scientificname:Rattus norvegicus" ; Times: 4
+	Query: "scientificname:Sorex hoyi" ; Times: 2
+	Query: "scientificname:Odocoileus virginianus" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis family:Canidae (zoo OR captive) AND (NOT baileyi NOT familiaris NOT dingo)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34; institutioncode:NMU" ; Times: 1
+	Query: "scientificname:Canis latrans" ; Times: 8
+	Query: "scientificname:Zapus hudsonius" ; Times: 4
+	Query: "Fish positioning" ; Times: 1
+	Query: "scientificname:Glaucomys sabrinus" ; Times: 8
+	Query: "scientificname:Mustela nivalis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 842 download events in this period)
+Total number of records downloaded: 2647
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 76
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 7
+	Date: 2020-11-22 ; Times: 1
+	Date: 2020-11-23 ; Times: 10
+	Date: 2020-11-08 ; Times: 3
+	Date: 2020-11-09 ; Times: 3
+	Date: 2020-11-06 ; Times: 7
+	Date: 2020-11-07 ; Times: 3
+	Date: 2020-11-04 ; Times: 16
+	Date: 2020-11-05 ; Times: 12
+	Date: 2020-11-03 ; Times: 4
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-01 ; Times: 1
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-30 ; Times: 2
+	Date: 2020-11-29 ; Times: 1
+	Date: 2020-11-12 ; Times: 6
+	Date: 2020-11-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "cryptotis parva" ; Times: 2
+	Query: "Canis Ohio" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "Microtus oeconomus" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "felidae hasmass:1 haslength:1" ; Times: 1
+	Query: "Spermophilus lateralis" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerea genus:Neotoma" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Spermophilus tridecemlineatus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "hassex:1 hasmass:1" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus haslength:1" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "vntype:specimen class:Mammalia massing &gt;= 8000 hasmass:1" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "dipodomys ordii" ; Times: 1
+	Query: "myodes gapperi" ; Times: 1
+	Query: "vntype:specimen family:Felidae hasmass:1 haslength:1 -uwbm -dmns -cumv -uam -msb" ; Times: 1
+	Query: "Ictidomys tridecemlineatus" ; Times: 1
+	Query: "canis lupus arctos" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 1
+	Query: "vntype:specimen specificepithet:tridecemlineatus genus:Spermophilus" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Mus musculus" ; Times: 2
+	Query: "Tamias amoenus" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus haslength:1" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "Spermophilus tereticaudus" ; Times: 1
+	Query: "Odocoileus hemionus" ; Times: 1
+	Query: "mustela erminea" ; Times: 1
+	Query: "Thomomys talpoides" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "condylura cristata" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "class:mammalia massing &gt;= 300 lengthinmm &gt;= 250" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis family:Canidae (zoo OR captive) AND (NOT baileyi NOT familiaris NOT dingo) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tamiasciurus hudsonicus" ; Times: 2
+	Query: "Marmota monax" ; Times: 1
+	Query: "Cynomys ludovicianus" ; Times: 2
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 2
+	Query: "glaucomys sabrinus" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus hasmass:1" ; Times: 1
+	Query: "Spermophilus columbianus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Myodes gapperi" ; Times: 1
+
+
+End of report.
