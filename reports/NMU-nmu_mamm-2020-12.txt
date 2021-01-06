@@ -1,0 +1,72 @@
+Report for Institution Code NMU, Resource nmu_mamm
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 180
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 7
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-16 ; Times: 5
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-14 ; Times: 8
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Felis catus" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 8
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "wolves" ; Times: 4
+	Query: "specificepithet:minimus genus:tamias institutioncode:NMU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 705 download events in this period)
+Total number of records downloaded: 2619
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-03 ; Times: 3
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "canis latrans" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:NMU" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "family:Muridae hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+
+End of report.
